@@ -12,7 +12,7 @@ PKG_VERSION:=0.5
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=http://www.serveradminblog.com/wp-content/uploads/2016/03/
+PKG_SOURCE_URL:=http://files.bgeschka.de/
 PKG_MD5SUM:=d3e11bfd3fdc6a9eeec62c3c5afcf734
 
 PKG_INSTALL:=1
