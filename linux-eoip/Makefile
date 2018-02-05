@@ -11,9 +11,9 @@ PKG_NAME:=linux-eoip
 PKG_VERSION:=0.5
 PKG_RELEASE:=1
 
-PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tgz
-PKG_SOURCE_URL:=http://linux-eoip.googlecode.com/files/
-PKG_MD5SUM:=b2a9746f9ae352f2c495422cb19900d8
+PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
+PKG_SOURCE_URL:=http://www.serveradminblog.com/wp-content/uploads/2016/03/
+PKG_MD5SUM:=d3e11bfd3fdc6a9eeec62c3c5afcf734
 
 PKG_INSTALL:=1
 
